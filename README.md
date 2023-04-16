@@ -12,9 +12,9 @@
 7. Run `cp .env.example .env`
 
 > Update .env to your specific needs. Don't forget to set `DB_DATABASE` and `APP_URL` with the settings used behind.
-  `APP_URL = http://laravel-url-short.<...>` and `DB_DATABASE = laravel-url-short`
+  `APP_URL = http://laravel-url-short.<..>` and `DB_DATABASE = laravel-url-short`
 
 8. Run `php artisan migrate`
 9. Run `npm run dev`
 
-> Copy `APP_URL: http://laravel-url-short.<...>`
+> Copy `APP_URL: http://laravel-url-short.<..>`
